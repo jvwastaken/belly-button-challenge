@@ -6,4 +6,5 @@
 - **Office hours** was utilized for assistance in creating the GitHub Pages for this assignment.
 - **Module 14** was used as reference for generating all code in this assignment.
 
->[!NOTE] [Github Page](https://jvwastaken.github.io/belly-button-challenge/) for the interactive dashboard of this assignment.
+>[!NOTE] 
+>[Github Page](https://jvwastaken.github.io/belly-button-challenge/) for the interactive dashboard of this assignment.
